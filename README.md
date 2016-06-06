@@ -4,7 +4,7 @@ FontAwesomeAndroid
 在Android上使用FontAwesome图标
 
 ## Demo
-![](https://github.com/yemengsky/FontAwesomeAndroid/blob/master/app/src/main/res/layout/activity_main.xml)
+![](https://github.com/yemengsky/FontAwesomeAndroid/blob/master/demo.png)
 
 - [demo代码请看戳这里](https://github.com/yemengsky/FontAwesomeAndroid/blob/master/app/src/main/res/layout/activity_main.xml)
 
