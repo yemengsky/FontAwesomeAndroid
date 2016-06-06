@@ -8,6 +8,12 @@ FontAwesomeAndroid
 
 - [demo代码请看戳这里](https://github.com/yemengsky/FontAwesomeAndroid/blob/master/app/src/main/res/layout/activity_main.xml)
 
+##关于text字段
+text字段可以参考以下链接获取：
+```
+   http://fontawesome.io/cheatsheet/
+```
+##使用方法
 demo是用Module方式依赖，你也可以使用gradle 依赖:
 ```java
    compile 'com.yemeng.fontawesome:fontawesome:1.0.0'
@@ -25,4 +31,4 @@ demo是用Module方式依赖，你也可以使用gradle 依赖:
         android:textColor="#f00"
         android:textSize="45sp" />
 ```
-
+Done。
